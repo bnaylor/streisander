@@ -3,4 +3,4 @@ Dockerfile &amp; scripts for installing streisand (https://github.com/jlund/stre
 
 It's just a little wrapper for the streisand installer so you don't need to install anything locally, or really breathe very hard at all.
 
-./run.sh or docker run --net host --rm -it -v <somedir>:/output bnaylor/streisander
+./run.sh or docker run --net host --rm -it -v &lt;somedir&gt;:/output bnaylor/streisander
